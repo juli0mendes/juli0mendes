@@ -70,9 +70,3 @@ Graduated in Information Systems at FEUC RJ. Graduate (specialization) in softwa
 </p>
 
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
