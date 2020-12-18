@@ -15,8 +15,8 @@
 <a href="https://www.facebook.com/juli0mendes">
   <img align="left" alt="Júlio's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://medium.com/@ashwanisng">
-  <img align="left" alt="Júlio's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://dev.to/juli0mendes">
+  <img align="left" alt="Júlio's Dev To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devto.svg" />
 </a>
 
 <br/>
