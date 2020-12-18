@@ -54,7 +54,7 @@ Graduated in Information Systems at FEUC RJ. Graduate (specialization) in softwa
 
 
 
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/juli0mendes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli0mendes&theme=radical" />
 </a>
 
