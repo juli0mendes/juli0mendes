@@ -18,10 +18,10 @@
 <br/>
 <br/>
 
-Solutions Architect | Java Evangelist | API Specialist | Microservice | Sensedia
+Solutions Architect | Java Evangelist | API Specialist | Microservice | Itaú Unibanco
 
 ## About :sunglasses:
-Graduated in Information Systems at FEUC RJ. Graduate (specialization) in software architecture distributed at PUC MG. Solution architect at Sensedia. Java evangelist and API specialist. Modern architecture: hexagonal, microservices, CQRS, DDD, event-driven. Integration parttners: EAI, SOA, ESB, SOAP, Rest, OData, GraphQL, API Gateway. Cloud: AWS, Azure, GCP, Heroku.
+Graduated in Information Systems at FEUC RJ. Graduate (specialization) in software architecture distributed at PUC MG. Solution architect at Itaú Unibanco. Java evangelist and API specialist. Modern architecture: hexagonal, microservices, CQRS, DDD, event-driven. Integration parttners: EAI, SOA, ESB, SOAP, Rest, OData, GraphQL, API Gateway. Cloud: AWS, Azure, GCP, Heroku.
 
 ## Communities :dancers:
 - Contributer at [Sou Java Rio](https://soujava-rio.github.io/)
