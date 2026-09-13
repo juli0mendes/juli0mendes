@@ -1,72 +1,47 @@
- # <a href="https://www.linkedin.com/in/juli0mendes/">Júlio Cesar Mendes</a> :smiley:
- 
- <a href="https://twitter.com/juli0mendes">
-  <img align="left" alt="Júlio's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+# [Júlio Cesar Mendes](https://juli0mendes.github.io/)
+
+**Staff Software Engineer at Itaú Unibanco** · **Java Evangelist** · **Event-Driven Architecture** · **Distributed Systems**
+
+## About
+
+I am a Staff Software Engineer at Itaú Unibanco, focused on designing and evolving reliable distributed systems and event-driven architectures.
+
+I am a Java evangelist currently deepening my expertise in Spring and a strong advocate for distributed systems, thoughtful technical design, and clear technical documentation. I also practice software development with Generative AI and am studying the design, development, and orchestration of GenAI agents.
+
+## Areas of Expertise
+
+- Event-driven architecture and advanced messaging
+- Distributed systems, microservices, and integration architecture
+- Java and Spring
+- Generative AI development, agents, and agent orchestration
+- AWS and Terraform
+- NoSQL databases: Amazon DynamoDB, MongoDB, Amazon DocumentDB, Amazon ElastiCache, and Redis
+- Caching strategies
+- Observability with logs, traces, and metrics using Datadog and Amazon CloudWatch
+- Messaging platforms: Amazon SNS, Amazon SQS, Apache Kafka, and RabbitMQ
+- Technical writing and documentation
+
+## Architecture Interests
+
+I enjoy working with domain-driven design, hexagonal architecture, CQRS, APIs, asynchronous communication, resilience, scalability, and operational excellence.
+
+## Education
+
+- BSc in Information Systems, FEUC-RJ
+- Specialization in Distributed Software Architecture, PUC Minas
+- MBA in Software Engineering with AI, in progress
+
+## Connect
+
+<a href="https://twitter.com/juli0mendes">
+	<img alt="Júlio's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/juli0mendes">
-  <img align="left" alt="Júlio's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/juli0mendes/">
+	<img alt="Júlio's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/juli0mendes">
-  <img align="left" alt="Júlio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="mailto:jmendes@live.com">
+	<img alt="Júlio's Outlook email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
-<a href="https://instagram.com/juli0mendes">
-  <img align="left" alt="Júlio's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="mailto:juuliomendes@gmail.com">
+	<img alt="Júlio's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.facebook.com/juli0mendes">
-  <img align="left" alt="Júlio's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
-
-Staff Software Engineer | Java Evangelist | API Specialist | Microservice | Evend-driven Architecture | 3x AWS Certified | Itaú Unibanco
-
-## About :sunglasses:
-Graduated in Information Systems at FEUC RJ. Graduate (specialization) in software architecture distributed at PUC MG. Staff Engineer at Itaú Unibanco. Java evangelist and API specialist. Modern architecture: hexagonal, microservices, CQRS, DDD, event-driven. Integration parttners: EAI, SOA, ESB, SOAP, Rest, OData, GraphQL, API Gateway. Cloud: AWS, Azure, GCP, Heroku. 2x AWS certified.
-
-## Communities :dancers:
-- Contributer at [Sou Java Rio](https://soujava-rio.github.io/)
-
-## Technologies :fire:
-- Microservices with **Spring Boot**
-- Microservices with **NodeJS**
-- Rest API
-- Restfull API
-- Object Orientation
-- SQL
-- NoSQL
-- UML
-- BDD
-- Event-driven
-- Messaging
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/spring.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/sql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mysql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/postgres.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/sql-server.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mongo.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/aws.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/docker.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/travis.svg"></code>
-
-
-
-<a href="https://github.com/juli0mendes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli0mendes&theme=radical" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=juli0mendes&&show_icons=true&theme=radical&line_height=27&v=5" alt="Juli0mendes's GitHub Stats" />
-
-
-##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@juli0mendes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juli0mendes)](https://twitter.com/juli0mendes) [![Linkedin Badge](https://img.shields.io/badge/-juli0mendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juli0mendes/)](https://www.linkedin.com/in/juli0mendes/) [![Gmail Badge](https://img.shields.io/badge/-juuliomendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juuliomendes@gmail.com)](mailto:juuliomendes@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@juli0mendes-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/juli0mendes/)](https://www.instagram.com/juli0mendes/)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/juli0mendes/count.svg" />
-</p>
-
-
