@@ -2,13 +2,13 @@
 
 **Staff Software Engineer at Itaú Unibanco** · **Java Evangelist** · **Event-Driven Architecture** · **Distributed Systems**
 
-## About
+## 👋 About
 
 I am a Staff Software Engineer at Itaú Unibanco, focused on designing and evolving reliable distributed systems and event-driven architectures.
 
 I am a Java evangelist currently deepening my expertise in Spring and a strong advocate for distributed systems, thoughtful technical design, and clear technical documentation. I also practice software development with Generative AI and am studying the design, development, and orchestration of GenAI agents.
 
-## Areas of Expertise
+## 🧠 Areas of Expertise
 
 - Event-driven architecture and advanced messaging
 - Distributed systems, microservices, and integration architecture
@@ -21,27 +21,19 @@ I am a Java evangelist currently deepening my expertise in Spring and a strong a
 - Messaging platforms: Amazon SNS, Amazon SQS, Apache Kafka, and RabbitMQ
 - Technical writing and documentation
 
-## Architecture Interests
+## 🏛️ Architecture Interests
 
 I enjoy working with domain-driven design, hexagonal architecture, CQRS, APIs, asynchronous communication, resilience, scalability, and operational excellence.
 
-## Education
+## 🎓 Education
 
 - BSc in Information Systems, FEUC-RJ
 - Specialization in Distributed Software Architecture, PUC Minas
 - MBA in Software Engineering with AI, in progress
 
-## Connect
+## 📫 Connect
 
-<a href="https://twitter.com/juli0mendes">
-	<img alt="Júlio's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juli0mendes/">
-	<img alt="Júlio's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:jmendes@live.com">
-	<img alt="Júlio's Outlook email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
-</a>
-<a href="mailto:juuliomendes@gmail.com">
-	<img alt="Júlio's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juli0mendes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juli0mendes/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jmendes@live.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juuliomendes@gmail.com)
